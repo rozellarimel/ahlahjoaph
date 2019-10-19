@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaepaich.pieroprettojs.com/sitemap.xml
